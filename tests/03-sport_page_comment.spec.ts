@@ -3,7 +3,7 @@ import { URLConstants } from '../constants/urlConstants';
 
 
 test.use({ storageState: 'data/sportsStorageState.json' });
-test (`Verify Comments Section on Sports Page`, async ({sportPage,commentPage}) => {
+test (`03-Verify Comments Section on Sports Page`, async ({sportPage,commentPage}) => {
    await sportPage.navigateToSportpage(URLConstants.CommentURL);
    await commentPage.navigateToCommentsSection();
    await commentPage.getCommentsSection();

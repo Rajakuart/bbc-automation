@@ -3,6 +3,7 @@ import { HomePage } from "./homePage";
 
 export class SportPage extends HomePage{
 
+   // navigate to the sport page and set the storage state
    async navigateToSportpage(url:string){
       await this.loadApp(url);
       await this.page.context().storageState({path:"data/sportsStorageState.json"});

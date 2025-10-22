@@ -2,6 +2,7 @@ import { Page } from "@playwright/test";
 
 
 export class PlayWrightWrapper{
+    // Declare a Playwright Page object (initialized later)
     page!: Page;
 
 

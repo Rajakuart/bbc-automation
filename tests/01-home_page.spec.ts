@@ -2,7 +2,7 @@ import { test } from "../fixtures/test.extends";
 import { URLConstants } from "../constants/urlConstants";
 import {login} from "../constants/credentialsLoginData"
 
-  test("loads and has BBC in title", async ({ homePage }) => {
+  test("01- loads and has BBC in title", async ({ homePage }) => {
     await homePage.open(URLConstants.Home);
     await homePage.expectedUrlcheck();
     await homePage.clickSignIn();
@@ -12,5 +12,4 @@ import {login} from "../constants/credentialsLoginData"
     await homePage.clickSignin();
     await homePage.getPageTitle();
 
-  
 });
