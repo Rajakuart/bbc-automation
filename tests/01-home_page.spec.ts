@@ -9,7 +9,7 @@ import {login} from "../constants/credentialsLoginData"
     await homePage.enterUserName(login.BBCUser);
     await homePage.clickContinue();
     await homePage.enterPassword(login.BBCPassword);
-    await homePage.clickSignIn();
+    await homePage.clickSignin();
     await homePage.getPageTitle();
 
   

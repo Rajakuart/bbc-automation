@@ -36,7 +36,7 @@ async enterPassword (password: string){
   await passWordField.fill(BBCPassword);
 
 }
-async clickSignin (){
+ async clickSignin (){
   await this.page.click("//span[text()='Sign in']");
 }
 async getPageTitle (){

@@ -166,6 +166,10 @@
       "origin": "https://www.bbc.co.uk",
       "localStorage": [
         {
+          "name": "_cb_expires",
+          "value": "1795281226929"
+        },
+        {
           "name": "_cb_svref",
           "value": "https%3A%2F%2Faccount.bbc.com%2F"
         },
@@ -174,11 +178,27 @@
           "value": "1"
         },
         {
+          "name": "_chartbeat2",
+          "value": ".1761153219971.1761153226928.1.Ul11dB63ph3pVhQtDr98a3PaHWY.1"
+        },
+        {
+          "name": "_cb",
+          "value": "CmPBkdDhMWEmCOeY0S"
+        },
+        {
+          "name": "DotMetrics.DomainCookie",
+          "value": "{\"dc\":\"1bec8988-71e0-4a32-95f6-016896fc4a8f\",\"ts\":1761153219950}"
+        },
+        {
           "name": "_cb_svref_expires",
           "value": "1761155026931"
         },
         {
-          "name": "_cb_expires",
+          "name": "account-prompt-dsi-session-time",
+          "value": "1761153219791"
+        },
+        {
+          "name": "_chartbeat2_expires",
           "value": "1795281226929"
         },
         {
@@ -186,32 +206,12 @@
           "value": "{\"DM_SitIdT1383\":1761153220248,\"DM_SitId1383SecIdT11826\":1761153220248}"
         },
         {
-          "name": "DotMetrics.DomainCookie",
-          "value": "{\"dc\":\"1bec8988-71e0-4a32-95f6-016896fc4a8f\",\"ts\":1761153219950}"
-        },
-        {
-          "name": "_chartbeat4_expires",
-          "value": "1761153287372"
-        },
-        {
           "name": "_chartbeat4",
           "value": "t=B-Tl5PCBhVCoCzD9BfhdFSJDsnHq2&E=0&x=0&c=0.01&y=7411&w=720"
         },
         {
-          "name": "_chartbeat2_expires",
-          "value": "1795281226929"
-        },
-        {
-          "name": "_cb",
-          "value": "CmPBkdDhMWEmCOeY0S"
-        },
-        {
-          "name": "account-prompt-dsi-session-time",
-          "value": "1761153219791"
-        },
-        {
-          "name": "_chartbeat2",
-          "value": ".1761153219971.1761153226928.1.Ul11dB63ph3pVhQtDr98a3PaHWY.1"
+          "name": "_chartbeat4_expires",
+          "value": "1761153287372"
         }
       ]
     }

@@ -8,6 +8,8 @@ test (`Verify Comments Section on Sports Page`, async ({sportPage,commentPage}) 
    await commentPage.navigateToCommentsSection();
    await commentPage.getCommentsSection();
    await commentPage.filterCommentsByNewest();
-   await commentPage.verifyCommentsSortedByNewest();
+   //await commentPage.verifyCommentsSortedByNewest();
+   await commentPage.filerCommentsByOldest();
+   await commentPage.verifyCommentsSortedByHighestRated();
 
 })
