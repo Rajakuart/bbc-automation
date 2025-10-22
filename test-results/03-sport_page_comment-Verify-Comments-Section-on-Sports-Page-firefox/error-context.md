@@ -1044,8 +1044,8 @@
                   - list [ref=e932]:
                     - listitem [ref=e934]:
                       - generic [ref=e937]:
-                        - generic [ref=e938]: 20160 viewing
-                        - text: 20k viewing
+                        - generic [ref=e938]: 18357 viewing
+                        - text: 18k viewing
               - listitem [ref=e939]:
                 - link "Ekitike scores as Liverpool end losing run in style" [ref=e944] [cursor=pointer]:
                   - /url: /sport/football/live/cx2ny502krkt
@@ -1080,7 +1080,7 @@
                           - generic [ref=e997]:
                             - text: Watchlist
                             - generic [ref=e998]: "Add Banned in the 80s: Moments That Shook Music to your Watchlist in iPlayer"
-                      - paragraph [ref=e999]: "Watchlist Add Banned in the 80s: Moments That Shook Music to your Watchlist in iPlayer"
+                      - paragraph [ref=e999]
                   - 'img "Banned in the 80s: Moments That Shook Music" [ref=e1003]'
               - listitem [ref=e1004]:
                 - generic [ref=e1006]:
@@ -1104,7 +1104,7 @@
                           - generic [ref=e1041]:
                             - text: Subscribe
                             - generic [ref=e1042]: Add Evil Genius with Russell Kane to My Sounds
-                      - paragraph [ref=e1043]: Subscribe Add Evil Genius with Russell Kane to My Sounds
+                      - paragraph [ref=e1043]
                   - img "Evil Genius with Russell Kane" [ref=e1047]
               - listitem [ref=e1048]:
                 - generic [ref=e1050]:
@@ -1128,7 +1128,7 @@
                           - generic [ref=e1085]:
                             - text: Watchlist
                             - generic [ref=e1086]: Add Leonard and Hungry Paul to your Watchlist in iPlayer
-                      - paragraph [ref=e1087]: Watchlist Add Leonard and Hungry Paul to your Watchlist in iPlayer
+                      - paragraph [ref=e1087]
                   - img "Leonard and Hungry Paul" [ref=e1091]
               - listitem [ref=e1092]:
                 - generic [ref=e1094]:
@@ -1152,7 +1152,7 @@
                           - generic [ref=e1129]:
                             - text: Subscribe
                             - generic [ref=e1130]: Add AntiSocial to My Sounds
-                      - paragraph [ref=e1131]: Subscribe Add AntiSocial to My Sounds
+                      - paragraph [ref=e1131]
                   - img "AntiSocial with Adam Fleming" [ref=e1135]
         - complementary "Elsewhere in Sport" [ref=e1136]:
           - generic [ref=e1137]:

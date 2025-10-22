@@ -1044,8 +1044,8 @@
                   - list [ref=e932]:
                     - listitem [ref=e934]:
                       - generic [ref=e937]:
-                        - generic [ref=e938]: 20188 viewing
-                        - text: 20k viewing
+                        - generic [ref=e938]: 18004 viewing
+                        - text: 18k viewing
               - listitem [ref=e939]:
                 - link "Ekitike scores as Liverpool end losing run in style" [ref=e944]:
                   - /url: /sport/football/live/cx2ny502krkt
