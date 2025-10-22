@@ -1,0 +1,189 @@
+{
+  "cookies": [
+    {
+      "name": "DotMetrics.DomainCookie",
+      "value": "{\"dc\":\"1bec8988-71e0-4a32-95f6-016896fc4a8f\",\"ts\":1761153219950}",
+      "domain": "www.bbc.co.uk",
+      "path": "/",
+      "expires": 1792689226,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "DM_SitId1383",
+      "value": "1",
+      "domain": "www.bbc.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "DM_SitId1383SecId11826",
+      "value": "1",
+      "domain": "www.bbc.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ckns_rtkn",
+      "value": "eyJ0eXAiOiJKV1QiLCJraWQiOiJFZ1VVKzhOaGFBWUtjNnlsb0NCcm5LUFRjZTg9IiwiYWxnIjoiRVMyNTYifQ.eyJzdWIiOiJhODA3MzQyNi1jYTM3LTQ0OTktYTYyNS05ZGZlM2ZlYjhmNTgiLCJjdHMiOiJPQVVUSDJfU1RBVEVMRVNTX0dSQU5UIiwiYXV0aF9sZXZlbCI6MiwiYXVkaXRUcmFja2luZ0lkIjoiNjJlNWU2MzMtYTc3My00MGJlLWFlMDgtYTQzYTIxOWU2NzA0LTE1MzQxNzU1IiwiaXNzIjoiaHR0cHM6Ly9hY2Nlc3MuYXBpLmJiYy5jb20vYmJjaWR2NS9vYXV0aDIiLCJ0b2tlbk5hbWUiOiJyZWZyZXNoX3Rva2VuIiwiYXV0aE1vZHVsZXMiOiJCQkNJRF9KREJDX0VNQUlMIiwidG9rZW5fdHlwZSI6IkJlYXJlciIsImF1dGhHcmFudElkIjoiSjlOUC1XWDh3YVFtT1lnYU5ZeUZHUGh3YXEwIiwiYXVkIjoiQWNjb3VudCIsImFjciI6IjAiLCJuYmYiOjE3NjExNTMyMjUsImdyYW50X3R5cGUiOiJhdXRob3JpemF0aW9uX2NvZGUiLCJzY29wZSI6WyJleHBsaWNpdCIsImNvcmUiLCJpbXBsaWNpdCIsInBpaSIsInVpZCIsImZpIiwib3BlbmlkIiwiZWQiXSwiYXV0aF90aW1lIjoxNzYxMTUzMjI1LCJyZWFsbSI6Ii8iLCJleHAiOjE4MjQyMjUyMjUsImlhdCI6MTc2MTE1MzIyNSwiZXhwaXJlc19pbiI6NjMwNzIwMDAsImp0aSI6ImFWbXJpTHVkWUxvUTVqN3pVNzE2NWVaZzUtNCJ9._eNobbymlu70QPdDmyuqXUAV2SBgslYQB6TorzljghSW44A2zIFEQba7-1KQYVJMrGT5lPvFYxkd42M5kWmt5A",
+      "domain": ".session.bbc.co.uk",
+      "path": "/",
+      "expires": 1795713225,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ckns_mvt",
+      "value": "2548edf1-b2b8-4a35-b55c-ac2081163dde",
+      "domain": ".bbc.co.uk",
+      "path": "/",
+      "expires": 1792689219,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "atuserid",
+      "value": "%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%22ddece618-082b-4d84-90fa-f64d65238106%22%2C%22options%22%3A%7B%22end%22%3A%222026-11-23T17%3A13%3A46.938Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
+      "domain": ".bbc.co.uk",
+      "path": "/",
+      "expires": 1795454026,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_cb",
+      "value": "CmPBkdDhMWEmCOeY0S",
+      "domain": ".bbc.co.uk",
+      "path": "/",
+      "expires": 1795281226,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_chartbeat2",
+      "value": ".1761153219971.1761153226928.1.Ul11dB63ph3pVhQtDr98a3PaHWY.1",
+      "domain": ".bbc.co.uk",
+      "path": "/",
+      "expires": 1795281226,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ckns_sylphid",
+      "value": "mO1kqAlF9B2j8zKGrt81is2RV75o_m2Gqfrtoi8i6S4",
+      "domain": ".bbc.co.uk",
+      "path": "/",
+      "expires": 1795713225,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ckns_id",
+      "value": "eyJhYiI6Im8xOCIsInBhIjoid2ExNCIsImVwIjp0cnVlLCJmaSI6eyJnYW0iOnsiaWQiOiIzMjA5ODdCQjE1RTdFQzZDNTgwRjFBRkY4RTJENEY3ODJDNTkyOTcyOUUwRkZCN0UyMjk4MkQ5NUEzQTNDNzhBOTlDNzI3NjcyMjc2QkYxNUYzNDBCQTY2Q0ExNzUxNUIiLCJ2ZXJzaW9uIjoiYjk3MDk4MzItM2RhYS00ZTkyLWJjMDctMzg0MjA1YzIyZTQzIn0sInBpYW5vIjp7ImlkIjoiZnM3QUczM0FicWUyT0lQb2gzWWl0QWRNTHZmU3lOcW55UFE3YWlGL1ZSU1JXdHgveFlsUFcvcmswWWQvdHh2MSIsInZlcnNpb24iOiI0NzFhMjM5YS1hYTNkLTQ5ZTYtOWIxZC1kNTcyNzhiNzkxMDgifSwiYWRhcHRlbXkiOnsiaWQiOiJpVnhPZGFpaFNYblZOcUp2RldKX05TdFdLVE14YjFxbTJRQ1JRY2J6VXFaeFQxbG9QVTdjbmt5VjlSVmt3TWtlIiwidmVyc2lvbiI6ImJkY2NjNDRkLWY3YTctNDQxZi1iOTJmLWIzMzZjMzY0MDNmMSJ9LCJnb29nbGUiOnsiaWQiOiJNZ21IdXhYbjdHeFlEeHIvamkxUGVDeFpLWEtlRC90K0lwZ3RsYU9qeDRxWnh5ZG5JbmEvRmZOQXVtYktGMUZiIiwidmVyc2lvbiI6IjdjZDQ0MDJjLWViZjQtNDE5OC05MjliLWEyOWQ1ZmUwZTQxNiJ9LCJzdHVkaW9zX296b25lIjp7ImlkIjoiSnRwQkNIaFFYYS9kSHVzOHd3bVNLK1FSaXN6dG1jV2N1WjVoMEowR3h0eThocWZTSDRoSUxSZVYxMHQwQW8vdiIsInZlcnNpb24iOiI0OTNhNWI3Zi1jNjI1LTQ2ODctOTRmMi1lNWE1ZGIwOGM4OTkifSwicGVybXV0YXRpdmUiOnsiaWQiOiJlK28zK3BRbUNDSzdRbDQvUW11djV2ejJ3SUVaQlpHaWxvQ1J5MUEwSjUrTEJNYkEraU9PRVVuVDJmaWJGOUFCIiwidmVyc2lvbiI6ImRkYjQ1ZGE3LWExNDQtNGUxNC04YjBlLTUwYjkyOTVjNzBmOSJ9fSwiZXYiOmZhbHNlLCJwbCI6ZmFsc2UsInBzIjoiY2JMcUJkSWhZZXp1TlliV0p3TVJlYzNOYlZrN3ZXS2s1N1hTYUlleFViOCIsImNsIjpmYWxzZSwiY2MiOiJnYiIsInJlYWxtIjoiLyIsInNlcy1leHAiOjE3NjExNTQxMjUwMDAsImp3dC1leHAiOjE4MjQyMjUyMjUwMDAsInRrbi1leHAiOjE3NjExNTk4MjQwMDAsInJ0a24tZXhwIjoxODI0MjI1MjI1MDAwLCJ0b2tlbkVudiI6ImxpdmUifQ",
+      "domain": ".bbc.co.uk",
+      "path": "/",
+      "expires": 1795713225,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ckns_mvt",
+      "value": "ea34978c-4e93-4448-b884-1c8ca0923d56",
+      "domain": ".bbc.com",
+      "path": "/",
+      "expires": 1761758021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "atuserid",
+      "value": "%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%22ec930448-f7bf-416a-b3a9-b4a87c2b7ba5%22%2C%22options%22%3A%7B%22end%22%3A%222026-11-23T17%3A13%3A43.395Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
+      "domain": ".bbc.com",
+      "path": "/",
+      "expires": 1795454023,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ckns_jwt",
+      "value": "eyJ0eXAiOiJKV1QiLCJjdHkiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.ZXlKMGVYQWlPaUpLVjFRaUxDSnJhV1FpT2lKTk1VcDFVMHhGVlRkb2IwaG9NMVUwVlN0MmFHSnNiR1ZyU1VrOUlpd2laVzVqSWpvaVFURXlPRU5DUXkxSVV6STFOaUlzSW1Gc1p5STZJbEpUUVRGZk5TSjkuWDRxX0RCeVNCb2U3NjJlaXcxdWRlY2VhODRkNTQ4LWd3S3AyRzI0NmFBd041TzdETjY4UTB6b19HMUk2WktqaTBMdy1FLTNDN3d3ZGRiR3A0aG1nZDRNc0dmYTZBb1RWUjBCdi1aZWNHbks3TlRnMTFEZVZfMDMzQWR6eHE0ZnVjNVNpU05mWEpZX2VkVlktVk9lejlPMGZ5VjF3NkhSVVdwWmFEYlNBdndQVGl4X1VUV29WNWhuZm1EQlQtdmRFaE5qaDZyUUhYWWk1RXoycEhrMTJkaXVSdkI2MEJXN2RQVGxDWmJDQS1Jbl80NW9QNVRhS0haM0dNTnVyX2NSTVB0ZDRDa25EZGVaTk9TQzVKRVZCVlJ4OXdmandIU2xoUHdDS2JveDRrb0QySU1xem1Ka0tNNVRLdm1LejI4Y0FIWFN5R3BsWnJnYVlLTVdEV0t2eEVRLjBlbjRMR05FVU9RaUp2cDMxdGt1S1EuMDBWa3hDZ1dENDhzR1JuaFFCeUxXQzBBZEJRUjNabGJUd0NiUGxNcjJHeHhtZE1xOWVPU2haSDQ0TzdpT09JWnJPeFhUYnZfMjJIbm8tTG5ucDVTaE8xX2FBRkkxM3otUDR5Wl9PYks1WHpnendSZUpET3dIbkpmd3B4ODM0eTFJOFl5Rkd6ZFVlZm9uM1UzV3Fkc2lDZ3F2QzdWY05rdGVVMUNiSVZtRTlfbW5ZMzBMVGhDZUVMLXFoYU5JemFGaWlNSzNDbE9tc3FQWGh2RXI5MGlHMnBBaURfV2hfY2JiZ2RpX0JLUWNjdjg3SXpSTFkyeGVJaWdiMm9mUWIwMUs2bUZXSm9pbDNfTThaZ29FbExRVV9lN0NONDFLa0cyRHB4dXBmX01TZW56M3dZY3NyQWhuUjRfNEhQMEwwNXh3aWRMdno3Vm5nSUtCQ0FOX1J3bVJrQ2J4SjN4QzVncC1rV2xhcjRqYVJvV1RkcU5ReGNxcWQ0Q19Qb0NLMVVUMVY2bEo2UmRpN2c4NUpQckRJLVNTSVJFMjV1c3I2NUR4N295dnh2ektWeVpWT1NMakUxRThYWnUyTnl3bE1QdEt3QkRLT1lUazFENWhfeHBrclYyWUZheTlxZ1c3T2V1bng2d2w2Y1JteEtKRk8xTHZXMEF6TVdDNm1FTmNpYTFla0s4VDlHOGc3MWQ3MklBcG5DdWdkSEJlNmlyU2xCSk5na2hnTmFKWUZyVGdsZm83QkxFN2dlYlVYckxvQnBBREgzNm5vcWR1UnpNc2xvT28zN2k4V2l4Nm9mZE9LZ0xHcFRqS2tQZlJoZy51WDk0SXBjNG1EY2Vhbk54RlFxTWNB.DHwYeJz3ntU4xB07awZTNU8AWXz9GuaIz-poCPKFsAg",
+      "domain": ".account.bbc.com",
+      "path": "/",
+      "expires": 1795713225,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.bbc.co.uk",
+      "localStorage": [
+        {
+          "name": "_cb_expires",
+          "value": "1795281226929"
+        },
+        {
+          "name": "_cb_svref",
+          "value": "https%3A%2F%2Faccount.bbc.com%2F"
+        },
+        {
+          "name": "account-prompt-homepage-views",
+          "value": "1"
+        },
+        {
+          "name": "_chartbeat2",
+          "value": ".1761153219971.1761153226928.1.Ul11dB63ph3pVhQtDr98a3PaHWY.1"
+        },
+        {
+          "name": "_cb",
+          "value": "CmPBkdDhMWEmCOeY0S"
+        },
+        {
+          "name": "DotMetrics.DomainCookie",
+          "value": "{\"dc\":\"1bec8988-71e0-4a32-95f6-016896fc4a8f\",\"ts\":1761153219950}"
+        },
+        {
+          "name": "_cb_svref_expires",
+          "value": "1761155026931"
+        },
+        {
+          "name": "account-prompt-dsi-session-time",
+          "value": "1761153219791"
+        },
+        {
+          "name": "_chartbeat2_expires",
+          "value": "1795281226929"
+        },
+        {
+          "name": "DotmetricsSiteData",
+          "value": "{\"DM_SitIdT1383\":1761153220248,\"DM_SitId1383SecIdT11826\":1761153220248}"
+        },
+        {
+          "name": "_chartbeat4",
+          "value": "t=B-Tl5PCBhVCoCzD9BfhdFSJDsnHq2&E=0&x=0&c=0.01&y=7411&w=720"
+        },
+        {
+          "name": "_chartbeat4_expires",
+          "value": "1761153287372"
+        }
+      ]
+    }
+  ]
+}
