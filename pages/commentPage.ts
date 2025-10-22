@@ -21,11 +21,12 @@ export class CommentPage extends HomePage {
         const filterDropdown = this.page.getByRole('combobox', { name: "Show" });
         await filterDropdown.click();
         await filterDropdown.selectOption({ value: 'NewestFirst' });
-    }
-    async verifyCommentsSortedByNewest() {
+    } async verifyCommentsSortedByNewest() {
         const commentTimestamps = this.page.locator("//div[@data-testid='comment']//time");
-        expect (await this.page.screenshot()).toMatchSnapshot({path: 'utils/screenshot/CommentsSortedByNewest.png'},{maxDiffPixels: 50, threshold: 0.8});
+        await this.page.screenshot({path: 'utils/screenshot/CommentsSortedByNewest.png',fullPage: true, });
+        expect (await this.page.screenshot()).toMatchSnapshot('../utils/screenshot/CommentsSortedByNewest.png', {maxDiffPixels: 50, threshold: 0.8});
         console.log("Verified that comments are sorted by Newest First");
+   
     }
 
 }
