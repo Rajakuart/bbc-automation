@@ -1,4 +1,4 @@
-# 🧭 BBC Website E2E Automation Framework
+#  BBC Website E2E Automation Framework
 
 A modular **Playwright + TypeScript** end-to-end automation framework for the **BBC Website**, built following the **Page Object Model (POM)** design pattern.  
 This framework includes **custom fixtures**, **reusable page objects**, and **typed URL constants**, providing a clean, maintainable, and scalable structure for UI test automation.
