@@ -41,12 +41,13 @@ bbc-playwright-framework/
 │ └── 03-comments.spec.ts
 │
 ├── utils/ # Utilities and artifacts
-│ ├── screenshot/
-│ └── data/
+│ └── screenshot/
+│
+├── data
 │ └── sportsStorageState.json
 │
-├── features/ # Manual test cases (Gherkin)
-│ └── bbc_manual_tests.feature
+├── Manual test cases (Gherkin)
+│ └── stepdefination.feature
 │
 ├── package.json
 ├── playwright.config.ts
