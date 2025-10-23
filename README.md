@@ -63,10 +63,10 @@ Make sure you have **Node.js (>= 18.x)** installed.
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/bbc-playwright-framework.git
+https://github.com/Rajakuart/bbc-automation.git
 
 # Navigate to project folder
-cd bbc-playwright-framework
+cd bbc-automation
 
 # Install dependencies
 npm install
@@ -74,7 +74,7 @@ npm install
 ### Running Tests
 
 - **Run all tests**: `npx playwright test`
-- **Run a specific test**: `npx playwright test tests/aggridHome.spec.ts`
+- **Run a specific test**: `npx playwright test test/ 01-home_page.spec.ts`
 - **Run tests in headed mode**: `npx playwright test --headed`
 - **Run with UI mode (interactive)**: `npx playwright test --ui`
 - **Run a Report**: `npx playwright show-report`
