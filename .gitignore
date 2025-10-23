@@ -1,0 +1,14 @@
+# OS / editor junk
+.DS_Store
+*.code-workspace
+
+# Playwright artifacts (recommended)
+playwright-report/
+test-results/
+utils/screenshot/
+tests/**/*.png
+data/*state*.json
+
+# Node / env
+node_modules/
+.env
