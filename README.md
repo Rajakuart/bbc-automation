@@ -36,9 +36,9 @@ bbc-playwright-framework/
 │ └── urlConstants.ts
 │
 ├── tests/ # Test specifications
-│ ├── 01-login.spec.ts
-│ ├── 02-sportpage.spec.ts
-│ └── 03-comments.spec.ts
+│ ├── 01-home_page.spec.ts
+│ ├── 02-sports_page.spec.ts
+│ └── 03-sport_page_comment.spec.ts
 │
 ├── utils/ # Utilities and artifacts
 │ └── screenshot/
