@@ -1,5 +1,5 @@
-// Export the 'URLConstants' enum so it can be used in other modules
-export enum URLConstants {
+// Export the 'UrlConstants' enum so it can be used in other modules
+export enum UrlConstants {
 
   // URL for the BBC Home page
   Home = "https://www.bbc.co.uk/",

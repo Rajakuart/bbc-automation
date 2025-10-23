@@ -24,10 +24,10 @@ export class HomePage extends PlayWrightWrapper {
   }
   // enter the username in the login form and wait for visibility
   async enterUserName(username: string) {
-    const BBCUser = username;
+    const userEmail = username;
     const userNameField = this.page.locator("//span[text()='Email or username']");
     await userNameField.waitFor({ state: 'visible' });
-    await userNameField.fill(BBCUser);
+    await userNameField.fill(userEmail);
   }
   //  click the Continue button to proceed to the password entry
   async clickContinue() {
@@ -35,10 +35,10 @@ export class HomePage extends PlayWrightWrapper {
   }
   // enter the password in the login form and wait for visibility
   async enterPassword(password: string) {
-    const BBCPassword = password;
+    const userPassword = password;
     const passWordField = this.page.locator("//span[text()='Password']");
     await passWordField.waitFor({ state: 'visible' });
-    await passWordField.fill(BBCPassword);
+    await passWordField.fill(userPassword);
   }
   // click the Sign In button to submit the login form
   async clickSignin() {
