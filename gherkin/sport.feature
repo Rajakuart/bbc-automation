@@ -1,8 +1,8 @@
 @manual @regression
 Feature: BBC Website Testing 
 As a BBC user
-  I want to navigate the site, sign in/out, and view sports content
-  So that I can read articles and check whether commenting is available
+  User want to navigate the site, sign in/out, and view sports content
+  So that user can read articles and check whether commenting is available
 
   @nav
   Scenario: User can navigate to BBC Homepage
